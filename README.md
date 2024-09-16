@@ -33,4 +33,5 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 ## :family_man_woman_boy_boy: Team:
 - Praveen Koujalagi - [Praveen](https://github.com/Praveen-koujalagi)
 - Sarvesh balaji - [Sarvesh](https://github.com/Sarvesh-Balagi)
+- Sameeksha S-https://github.com/sameekshass
 
